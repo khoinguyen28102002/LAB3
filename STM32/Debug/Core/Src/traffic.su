@@ -1,0 +1,11 @@
+traffic.c:25:6:display_7SEG	16	static
+traffic.c:43:6:init_traffic_light	8	static
+traffic.c:56:6:setRedLightInRow	8	static
+traffic.c:60:6:setYellowLightInRow	8	static
+traffic.c:64:6:setGreenLightInRow	8	static
+traffic.c:68:6:setRedLightInColumn	8	static
+traffic.c:72:6:setYellowLightInColumn	8	static
+traffic.c:76:6:setGreenLightInColumn	8	static
+traffic.c:81:6:turnOffAllLed	8	static
+traffic.c:84:6:display7SEGA	16	static
+traffic.c:125:6:display7SEGB	16	static
